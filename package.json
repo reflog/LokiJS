@@ -1,5 +1,5 @@
 {
-  "name": "lokijs",
+  "name": "lokijs-mini",
   "version": "1.5.0-mini",
   "description": "Fast document oriented javascript in-memory database (mini)",
   "homepage": "http://lokijs.org",
