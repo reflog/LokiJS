@@ -1,4 +1,5 @@
 # LokiJS
+(forked without some adapters)
 
 [![Join the chat at https://gitter.im/techfort/LokiJS](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/techfort/LokiJS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![alt CI-badge](https://travis-ci.org/techfort/LokiJS.svg?branch=master)
@@ -10,7 +11,7 @@
 LokiJS is a document oriented database written in javascript, published under MIT License.
 Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism.
 Runs in node (including cordova/phonegap and node-webkit),  [nativescript](http://www.nativescript.org) and the browser.
-LokiJS is ideal for the following scenarios: 
+LokiJS is ideal for the following scenarios:
 
 1. client-side in-memory db is ideal (e.g., a session store)
 2. performance critical applications
@@ -44,7 +45,7 @@ Example usage can be found on the [wiki](https://github.com/techfort/LokiJS/wiki
 LokiJS is at version 1.3 [Eostre].
 As LokiJS is written in Javascript it can be run on any environment supporting javascript such as browsers, node.js/node-webkit, nativescript mobile framework and hybrid mobile apps (such as phonegap/cordova).
 
-Made by [@techfort](http://twitter.com/tech_fort), with the precious help of Dave Easterday. 
+Made by [@techfort](http://twitter.com/tech_fort), with the precious help of Dave Easterday.
 
 _[Leave a tip](https://gratipay.com/techfort/) or give us a star if you find LokiJS useful!_
 
